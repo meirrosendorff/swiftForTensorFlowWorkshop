@@ -1,5 +1,4 @@
-# tensorForSwiftBreathingModel
-
+# Swift For tensorflow Workshop
 
 ## Tensor flow installation
 
@@ -20,3 +19,9 @@
   print(Python.version)
   ```
   Make sure all python libraries you want to used are installed for that version of python (just pip/pip3 install)
+  
+  # Usefull Links
+  - [Swift for tensorflow github](https://github.com/tensorflow/swift)
+  - [Swift for tensorflow python interoperability tutorial](https://colab.research.google.com/github/tensorflow/swift/blob/master/docs/site/tutorials/python_interoperability.ipynb)
+  - [Swift for tensorflow model training tutorial](https://colab.research.google.com/github/tensorflow/swift/blob/master/docs/site/tutorials/model_training_walkthrough.ipynb)
+  - [Github of my more complex project for detecting sign language letters from images](https://github.com/meirrosendorff/tensorForSwiftModels/blob/ASL/README.md)
